@@ -1,6 +1,6 @@
 ## Opaa, sou o José Diogo, um jovem desenvolvedor web e técnico de informática!
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div align="center">
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <a href="https://github.com/zedeogo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zedeogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedeogo&layout=compact&langs_count=7&theme=dracula"/>
