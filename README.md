@@ -18,7 +18,7 @@
 ## Bem-vindo(a) ao meu perfil do GitHub 👋
 Sou um jovem de 18 anos chamado José Diogo Caetano Diniz, também um programador e user experience designer do Estado de São Paulo que ja foi premiado na feira Maker Space IoT e semifinalista na feira nacional FEBRACE. Crio projetos com planejamento estratégico, memoráveis e de grande admiração.
 
-Minha paixão por tecnologia e programação começou desde os meus 12 anos, quando recebi meu primeiro notebook. Desde então, nunca mais parei de aprender e me aprimorar. Após concluir um curso técnico em informática, consegui meu primeiro emprego como desenvolvedor júnior em uma empresa de desenvolvimento de sistemas.
+Minha paixão por tecnologia e programação começou desde os meus 12 anos, quando recebi meu primeiro notebook. Desde então, nunca mais parei de aprender e me aprimorar, mantendo a consistência de meus estudos.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="Html"/></code>
