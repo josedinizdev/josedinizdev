@@ -1,11 +1,12 @@
 # José Diogo Caetano Diniz
-Bem-vindo(a) ao meu perfil do GitHub 👋
 
 <div display="inline-block">
   <a href="https://www.instagram.com/idiogo.diniz/">
     
   </a>
 </div>
+
+## Bem-vindo(a) ao meu perfil do GitHub 👋
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
