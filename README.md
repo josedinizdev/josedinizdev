@@ -1,6 +1,11 @@
-# Opa, sou o José !
-## Bem-vindo(a) ao meu perfil do GitHub 👋
+# José Diogo Caetano Diniz
+Bem-vindo(a) ao meu perfil do GitHub 👋
 
+<div display="inline-block">
+  <a href="https://www.instagram.com/idiogo.diniz/">
+    
+  </a>
+</div>
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
