@@ -2,16 +2,16 @@
 
 <div display="inline-block">
   <a href="https://www.instagram.com/idiogo.diniz/">
-    <img width="40px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/instagram.svg" title="INSTAGRAM"/>
+    <img width="100px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/instagram.svg" title="INSTAGRAM"/>
   </a>
   <a href="https://www.linkedin.com/in/idiogodiniz/">
-    <img width="40px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/linkedin.svg" title="LINKEDIN"/>
+    <img width="100px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/linkedin.svg" title="LINKEDIN"/>
   </a>
   <a href="https://twitter.com/idiogodiniz/">
-    <img width="40px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/twitter.svg" title="TWITTER"/>
+    <img width="100px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/twitter.svg" title="TWITTER"/>
   </a>
   <a href="https://idiogodiniz.github.io/">
-    <img width="40px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/website.svg" title="MEU SITE"/>
+    <img width="100px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/website.svg" title="MEU SITE"/>
   </a>
 </div>
 
