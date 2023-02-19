@@ -1,6 +1,6 @@
 # José Diogo Caetano Diniz
 
-<div>
+<div display="inline-block">
   <a href="https://www.instagram.com/idiogo.diniz/">
     <img width="40px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/instagram.svg" title="INSTAGRAM"/>
   </a>
@@ -8,11 +8,11 @@
   <a href="https://www.linkedin.com/in/idiogodiniz/">
     <img width="40px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/linkedin.svg" title="LINKEDIN"/>
   </a>
-  <div width="10px" />
+  <div width="10px"></div>
   <a href="https://twitter.com/idiogodiniz/">
     <img width="40px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/twitter.svg" title="TWITTER"/>
   </a>
-  <div width="10px" />
+  <div width="10px"></div>
   <a href="https://idiogodiniz.github.io/">
     <img width="40px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/website.svg" title="MEU SITE"/>
   </a>
