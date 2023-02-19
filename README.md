@@ -36,8 +36,8 @@ Minha paixão por tecnologia e programação começou desde os meus 12 anos, qua
 ##
 <p align="center">
   <a href="https://github.com/jeniblodev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=idiogodiniz&repo=DevUtils&cache_seconds=86400&theme=default_repocard"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=idiogodiniz&repo=idiogodiniz.github.io&&layout=compactcache_seconds=86400&theme=default_repocard"/>
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=idiogodiniz&repo=DevUtils&cache_seconds=86400&theme=default_repocard"/>
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=idiogodiniz&repo=idiogodiniz.github.io&&layout=compactcache_seconds=86400&theme=default_repocard"/>
   </a>
 </p>
 
