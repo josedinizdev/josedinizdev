@@ -2,7 +2,7 @@
 
 <div display="inline-block">
   <a href="https://www.instagram.com/idiogo.diniz/">
-    <img width="40px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/instagram.svg" title="INSTAGRAM"/>
+    <img padding-left="" width="40px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/instagram.svg" title="INSTAGRAM"/>
   </a>
   <a href="https://www.linkedin.com/in/idiogodiniz/">
     <img width="40px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/linkedin.svg" title="LINKEDIN"/>
