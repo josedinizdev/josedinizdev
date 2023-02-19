@@ -1,6 +1,8 @@
 # Opa, sou o José !
 ## Bem-vindo(a) ao meu perfil do GitHub 👋
 
+
+
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code>
@@ -21,3 +23,11 @@
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GITHUB"/></code>
+
+##
+<p align="center">
+  <a href="https://github.com/jeniblodev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=idiogodiniz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=idiogodiniz&layout=compact&langs_count=8&theme=default"/>
+  </a>
+</p>
