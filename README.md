@@ -10,7 +10,7 @@
   <a href="https://twitter.com/idiogodiniz/">
     <img width="64px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/twitter.svg" title="Twitter"/>
   </a>
-  <a href="https://idiogodiniz.github.io/">
+  <a href="https://JDiogoDiniz.github.io/">
     <img width="64px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/website.svg" title="Meu site"/>
   </a>
 </div>
@@ -35,16 +35,16 @@ Minha paixão por tecnologia e programação começou desde os meus 12 anos, qua
 
 ##
 <p align="center">
-  <a href="https://github.com/jeniblodev">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=idiogodiniz&repo=DevUtils&cache_seconds=86400&theme=default_repocard"/>
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=idiogodiniz&repo=idiogodiniz.github.io&&layout=compactcache_seconds=86400&theme=default_repocard"/>
+  <a href="https://github.com/JDiogoDiniz">
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=JDiogoDiniz&repo=DevUtils&cache_seconds=86400&theme=default_repocard"/>
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=JDiogoDiniz&repo=idiogodiniz.github.io&&layout=compactcache_seconds=86400&theme=default_repocard"/>
   </a>
 </p>
 
 ##
 <p align="center">
-  <a href="https://github.com/jeniblodev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=idiogodiniz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=idiogodiniz&layout=compact&langs_count=8&theme=default"/>
+  <a href="https://github.com/JDiogoDiniz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JDiogoDiniz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JDiogoDiniz&layout=compact&langs_count=8&theme=default"/>
   </a>
 </p>
