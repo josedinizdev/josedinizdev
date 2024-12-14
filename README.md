@@ -13,7 +13,7 @@
 </div>
 
 ## Bem-vindo(a) ao meu perfil do GitHub 👋
-Olá, prazer! Sou José, um Desenvolvedor Fullstack. Trabalho em uma empresa que atua no mercado de automações comerciais e já fui premiado na feira Maker Space IoT, além de ser semifinalista na feira nacional FEBRACE. Desenvolvo projetos com planejamento estratégico, memoráveis e que geram grande admiração.
+Olá, prazer, sou José! Um Desenvolvedor Fullstack. Trabalho em uma empresa que atua no mercado de automações comerciais e já fui premiado na feira Maker Space IoT, além de ser semifinalista na feira nacional FEBRACE. Desenvolvo projetos com planejamento estratégico, memoráveis e que geram grande admiração.
 
 Minha paixão por tecnologia e programação começou aos 12 anos. Desde então, nunca parei de aprender e me aprimorar, mantendo consistência em meus estudos.
 
