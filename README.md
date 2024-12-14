@@ -1,50 +1,29 @@
 # José Diogo Caetano Diniz
 
 <div display="inline-block">
-  <a href="https://www.instagram.com/idiogo.diniz/">
+  <a href="https://www.instagram.com/dinizdev/">
     <img width="64px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/instagram.svg" title="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/idiogodiniz/">
     <img width="64px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/linkedin.svg" title="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/idiogodiniz/">
-    <img width="64px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/twitter.svg" title="Twitter"/>
-  </a>
-  <a href="https://JDiogoDiniz.github.io/">
+  <a href="https://josedinizdev.github.io/">
     <img width="64px" src="https://github.com/idiogodiniz/idiogodiniz/blob/main/public/assets/images/website.svg" title="Meu site"/>
   </a>
 </div>
 
 ## Bem-vindo(a) ao meu perfil do GitHub 👋
-Sou um jovem de 18 anos chamado José Diogo Caetano Diniz, também um programador e user experience designer do Estado de São Paulo que ja foi premiado na feira Maker Space IoT e semifinalista na feira nacional FEBRACE. Crio projetos com planejamento estratégico, memoráveis e de grande admiração.
+Olá, prazer! Sou José, um Desenvolvedor Fullstack. Trabalho em uma empresa que atua no mercado de automações comerciais e já fui premiado na feira Maker Space IoT, além de ser semifinalista na feira nacional FEBRACE. Desenvolvo projetos com planejamento estratégico, memoráveis e que geram grande admiração.
 
-Minha paixão por tecnologia e programação começou desde os meus 12 anos, quando recebi meu primeiro notebook. Desde então, nunca mais parei de aprender e me aprimorar, mantendo a consistência de meus estudos.
+Minha paixão por tecnologia e programação começou aos 12 anos. Desde então, nunca parei de aprender e me aprimorar, mantendo consistência em meus estudos.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="Html"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="Css"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="CSharp" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" /></code>
-
-##
-<p align="center">
-  <a href="https://github.com/JDiogoDiniz">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=JDiogoDiniz&repo=DevUtils&cache_seconds=86400&theme=default_repocard"/>
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=JDiogoDiniz&repo=idiogodiniz.github.io&&layout=compactcache_seconds=86400&theme=default_repocard"/>
-  </a>
-</p>
-
-##
-<p align="center">
-  <a href="https://github.com/JDiogoDiniz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JDiogoDiniz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JDiogoDiniz&layout=compact&langs_count=8&theme=default"/>
-  </a>
-</p>
